@@ -138,15 +138,7 @@ python -c "from src.Data_loader import load_all_documents; docs=load_all_documen
 
 Contributions are welcome. Please open an issue to discuss changes before creating pull requests.
 
-## License
 
-This project currently does not contain a license file. Add an open-source license (for example, MIT) in `LICENSE` if you intend to publish the code.
-
----
-
-If you'd like, I can also:
-
-- Add a `.env.example` file to the repo with recommended variables.
 - Implement a CLI wrapper for `main.py` (argparse/typer).
 - Add a small unit test or two for the loader/vectorstore.
 
